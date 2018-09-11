@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xialingming/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/xialingming/AndroidStudioProjects/CameraFragment/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_8e78d21c0100bcd3baa8fc2a9226e5d15e4dc82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xialingming/AndroidStudioProjects/CameraFragment/camerafragment/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="361e2ac0c236e481f30b9a28f85d1bad9098775f">
+        <dex dex="/Users/xialingming/AndroidStudioProjects/CameraFragment/app/build/intermediates/pre-dexed/debug/classes_1efb26b9909385c8690f47b3fb34528bae8b3467.jar" />
+    </item>
+
+</items>
